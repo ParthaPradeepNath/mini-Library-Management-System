@@ -50,11 +50,6 @@ README.md                      # Project description and guide
 
 ---
 
-## 📸 Screenshots
-
-java\GUI.png
-
----
 
 ## 📌 Notes
 
